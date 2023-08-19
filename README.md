@@ -1,2 +1,2 @@
 # letter-backend
-![Screenshot from 2023-08-19 01-36-03](https://github.com/Lebackrobot/letter-backend/assets/49316490/af0b51da-78bd-4a28-a553-6db1eb78c752)
+![Screenshot from 2023-08-19 01-48-37](https://github.com/Lebackrobot/letter-backend/assets/49316490/9ddfbe2f-cff5-4c77-a539-5407d873b175)
